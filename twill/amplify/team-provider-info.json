@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-twill-dev-200255-authRole",
+      "UnauthRoleArn": "arn:aws:iam::645455186426:role/amplify-twill-dev-200255-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::645455186426:role/amplify-twill-dev-200255-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-twill-dev-200255-deployment",
+      "UnauthRoleName": "amplify-twill-dev-200255-unauthRole",
+      "StackName": "amplify-twill-dev-200255",
+      "StackId": "arn:aws:cloudformation:us-east-2:645455186426:stack/amplify-twill-dev-200255/8577c2c0-9082-11ed-a1eb-0ac490c584c0",
+      "AmplifyAppId": "d2fq9o84v4m31v"
+    },
+    "categories": {
+      "api": {
+        "twill": {}
+      },
+      "auth": {
+        "twill305db5e0": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2fq9o84v4m31v",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
