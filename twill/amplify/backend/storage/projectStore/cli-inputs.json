@@ -1,0 +1,14 @@
+{
+  "resourceName": "projectStore",
+  "policyUUID": "e0753d3d",
+  "bucketName": "twill965954584f504a419784933cbf7dd761",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

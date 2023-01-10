@@ -23,6 +23,9 @@
           "appId": "d2fq9o84v4m31v",
           "type": "manual"
         }
+      },
+      "storage": {
+        "projectStore": {}
       }
     }
   }
